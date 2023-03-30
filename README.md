@@ -5,7 +5,6 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 ![palette-2](assets/palette-2.png)
 
 ## Color Palette
-|---------------|-----------|--------------------|--------------------|---------------------------------------------------|
 | Palette       | HEX       | RGB                | HSL                |                                                   |
 |---------------|-----------|--------------------|--------------------|---------------------------------------------------|
 | background0   | `#090a11` | `rgb(9,10,17)`     | `hsl(232,31%,5%)`  | ![background0](assets/colors/background0.png)     |
@@ -30,10 +29,8 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 | purple-faint  | `#8952D1` | `rgb(137,82,209)`  | `hsl(266,58%,57%)` | ![purple-faint](assets/colors/purple-faint.png)   |
 | orange        | `#E56115` | `rgb(229,97,21)`   | `hsl(22,83%,49%) ` | ![orange](assets/colors/orange.png)               |
 | orange-faint  | `#E68E5C` | `rgb(230,142,92)`  | `hsl(22,73%,63%) ` | ![orange-faint](assets/colors/orange-faint.png)   |
-|---------------|-----------|--------------------|--------------------|---------------------------------------------------|
 
 ### Extra colors
-|--------------------|-----------|-------------------|--------------------|
 | Palette            | HEX       | RGB               | HSL                |
 |--------------------|-----------|-------------------|--------------------|
 | bg-red-intense     | `#990F2D` | `rgb(153,15,45)`  | `hsl(347,82%,33%)` |
@@ -62,4 +59,3 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 | bg-cyan-nuanced    | `#052C33` | `rgb(5,44,51)`    | `hsl(189,82%,11%)` |
 | bg-purple-nuanced  | `#180533` | `rgb(24,5,51)`    | `hsl(265,82%,11%)` |
 | bg-orange-nuanced  | `#331505` | `rgb(51,21,5)`    | `hsl(21,82%,11%)`  |
-|--------------------|-----------|-------------------|--------------------|
