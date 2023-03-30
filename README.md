@@ -1,10 +1,17 @@
-# Entropia Theme
-Entropia is a dark colorscheme focused on high contrast, trying to capture the feel of classic terminals with a more modern style
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/migueldeoleiros/entropia-theme/master/assets/logo.png" width="150" alt="Logo"/><br/>
+	Entropia Theme
+</h3>
 
-![palette-1](assets/palette-1.png)
-![palette-2](assets/palette-2.png)
+<p align="center">
+Entropia is a dark colorscheme focused on high contrast and vibrant colors, trying to capture the feel of classic terminals with a modern style.
+</p>
 
 ## Color Palette
+![palette-1](assets/palette-1.png)
+  
+![palette-2](assets/palette-2.png)
+  
 | Palette       | HEX       | RGB                | HSL                |                                                   |
 |---------------|-----------|--------------------|--------------------|---------------------------------------------------|
 | background0   | `#090a11` | `rgb(9,10,17)`     | `hsl(232,31%,5%)`  | ![background0](assets/colors/background0.png)     |
