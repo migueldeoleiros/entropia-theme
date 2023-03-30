@@ -22,11 +22,11 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 | yellow        | `#DFAD16` | `rgb(223,173,22)`  | `hsl(45,82%,48%)`  | ![yellow](assets/colors/yellow.png)               |
 | yellow-faint  | `#DDC16E` | `rgb(221,193,110)` | `hsl(45,62%,65%)`  | ![yellow-faint](assets/colors/yellow-faint.png)   |
 | magenta       | `#EA2EB8` | `rgb(234,46,184)`  | `hsl(316,82%,55%)` | ![magenta](assets/colors/magenta.png)             |
-| magenta-faint | `#EA75CB` | `rgb(234,117,203)` | `hsl(316,74%,69%)` | ![magenta-faint](assets/colors/magenta-faint.png) |
+| magenta-faint | `#EA75CB` | `rgb(235,117,186)` | `hsl(325,75%,69%)` | ![magenta-faint](assets/colors/magenta-faint.png) |
 | cyan          | `#14B1CC` | `rgb(20,177,204)`  | `hsl(189,82%,44%)` | ![cyan](assets/colors/cyan.png)                   |
 | cyan-faint    | `#51BACD` | `rgb(81,186,205)`  | `hsl(189,55%,56%)` | ![cyan-faint](assets/colors/cyan-faint.png)       |
-| purple        | `#6614D2` | `rgb(102,20,210)`  | `hsl(266,83%,45%)` | ![purple](assets/colors/purple.png)               |
-| purple-faint  | `#8952D1` | `rgb(137,82,209)`  | `hsl(266,58%,57%)` | ![purple-faint](assets/colors/purple-faint.png)   |
+| purple        | `#732eea` | `rgb(115,46,234)`  | `hsl(262,82%,55%)` | ![purple](assets/colors/purple.png)               |
+| purple-faint  | `#9F71EA` | `rgb(159,113,234)` | `hsl(263,74%,68%)` | ![purple-faint](assets/colors/purple-faint.png)   |
 | orange        | `#E56115` | `rgb(229,97,21)`   | `hsl(22,83%,49%) ` | ![orange](assets/colors/orange.png)               |
 | orange-faint  | `#E68E5C` | `rgb(230,142,92)`  | `hsl(22,73%,63%) ` | ![orange-faint](assets/colors/orange-faint.png)   |
 
@@ -39,7 +39,7 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 | bg-yellow-intense  | `#99770F` | `rgb(153,119,15)` | `hsl(45,82%,33%)`  |
 | bg-magenta-intense | `#991E79` | `rgb(153,30,121)` | `hsl(316,67%,36%)` |
 | bg-cyan-intense    | `#0F8499` | `rgb(15,132,153)` | `hsl(189,82%,33%)` |
-| bg-purple-intense  | `#4B0F99` | `rgb(75,15,153)`  | `hsl(266,82%,33%)` |
+| bg-purple-intense  | `#4811A7` | `rgb(72,17,167)`  | `hsl(262,82%,36%)` |
 | bg-orange-intense  | `#99420F` | `rgb(153,66,15)`  | `hsl(22,82%,33%)`  |
 |--------------------|-----------|-------------------|--------------------|
 | bg-red-subtle      | `#660A1E` | `rgb(102,10,30)`  | `hsl(347,82%,22%)` |
@@ -48,7 +48,7 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 | bg-yellow-subtle   | `#664F0A` | `rgb(102,79,10)`  | `hsl(45,82%,22%)`  |
 | bg-magenta-subtle  | `#661450` | `rgb(102,20,80)`  | `hsl(316,67%,24%)` |
 | bg-cyan-subtle     | `#0A5866` | `rgb(10,88,102)`  | `hsl(189,82%,22%)` |
-| bg-purple-subtle   | `#300A66` | `rgb(48,10,102)`  | `hsl(265,82%,22%)` |
+| bg-purple-subtle   | `#300B6F` | `rgb(48,11,111)`  | `hsl(262,82%,24%)` |
 | bg-orange-subtle   | `#662C0A` | `rgb(102,44,10)`  | `hsl(22,82%,22%)`  |
 |--------------------|-----------|-------------------|--------------------|
 | bg-red-nuanced     | `#33050F` | `rgb(51,5,15)`    | `hsl(347,82%,11%)` |
@@ -57,5 +57,5 @@ Entropia is a dark colorscheme focused on high contrast, trying to capture the f
 | bg-yellow-nuanced  | `#332705` | `rgb(51,39,5)`    | `hsl(44,82%,11%)`  |
 | bg-magenta-nuanced | `#330A28` | `rgb(51,10,40)`   | `hsl(316,67%,12%)` |
 | bg-cyan-nuanced    | `#052C33` | `rgb(5,44,51)`    | `hsl(189,82%,11%)` |
-| bg-purple-nuanced  | `#180533` | `rgb(24,5,51)`    | `hsl(265,82%,11%)` |
+| bg-purple-nuanced  | `#180638` | `rgb(24,6,56)`    | `hsl(262,82%,12%)` |
 | bg-orange-nuanced  | `#331505` | `rgb(51,21,5)`    | `hsl(21,82%,11%)`  |
