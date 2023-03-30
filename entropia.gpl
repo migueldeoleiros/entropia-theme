@@ -1,0 +1,50 @@
+GIMP Palette
+Name: entropia
+Columns: 0
+#
+  9  10  17	background0
+ 18  19  25	background1
+ 37  38  51	accent0
+ 65  66  89	accent1
+211 218 232	white
+174 179 191	light-gray
+209  20  61	red
+209  83 110	red-faint
+153  15  45	bg-red-intense
+102  10  30	bg-red-subtle
+ 51   5  15	bg-red-nuanced
+ 20 204  75	green
+ 89 178 116	green-faint
+ 15 153  56	bg-green-intense
+ 10 102  37	bg-green-subtle
+  5  51  18	bg-green-nuanced
+ 24  97 244	blue
+122 163 244	blue-faint
+ 15  61 153	bg-blue-intense
+ 10  40 102	bg-blue-subtle
+  5  20  51	bg-blue-nuanced
+221 171  22	yellow
+221 194 110	yellow-faint
+153 118  15	bg-yellow-intense
+102  79  10	bg-yellow-subtle
+ 51  39   5	bg-yellow-nuanced
+234  46 184	magenta
+234 117 203	magenta-faint
+153  30 120	bg-magenta-intense
+102  20  80	bg-magenta-subtle
+ 51  10  40	bg-magenta-nuanced
+ 20 176 204	cyan
+ 81 185 204	cyan-faint
+ 15 132 153	bg-cyan-intense
+ 10  88 102	bg-cyan-subtle
+  5  44  51	bg-cyan-nuanced
+115  46 234	purple
+159 113 234	purple-faint
+ 72  17 167	bg-purple-intense
+ 48  11 111	bg-purple-subtle
+ 24   6  56	bg-purple-nuanced
+229  98  22	orange
+229 142  91	orange-faint
+153  65  15	bg-orange-intense
+102  43  10	bg-orange-subtle
+ 51  21   5	bg-orange-nuanced
