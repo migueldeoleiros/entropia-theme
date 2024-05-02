@@ -11,7 +11,8 @@ Entropia is a dark colorscheme focused on high contrast and vibrant colors, tryi
 ![palette-1](assets/palette-1.png)
   
 ![palette-2](assets/palette-2.png)
-  
+
+### Entropia classic
 | Palette       | HEX       | RGB                | HSL                |                                                   |
 |---------------|-----------|--------------------|--------------------|---------------------------------------------------|
 | background0   | `#090a11` | `rgb(9,10,17)`     | `hsl(232,31%,5%)`  | ![background0](assets/colors/background0.png)     |
@@ -36,6 +37,16 @@ Entropia is a dark colorscheme focused on high contrast and vibrant colors, tryi
 | purple-faint  | `#9F71EA` | `rgb(159,113,234)` | `hsl(263,74%,68%)` | ![purple-faint](assets/colors/purple-faint.png)   |
 | orange        | `#E56115` | `rgb(229,97,21)`   | `hsl(22,83%,49%) ` | ![orange](assets/colors/orange.png)               |
 | orange-faint  | `#E68E5C` | `rgb(230,142,92)`  | `hsl(22,73%,63%) ` | ![orange-faint](assets/colors/orange-faint.png)   |
+
+### Entropia mono
+| Palette       | HEX       | RGB                | HSL                |                                                   |
+|---------------|-----------|--------------------|--------------------|---------------------------------------------------|
+| background0_mono   | `#0f0f0f` | `rgb(15,15,15)`    | `hsl(0,0%,6%)`  | ![background0_mono](assets/colors/background0_mono.png)     |
+| background1_mono   | `#191919` | `rgb(25,25,25)`    | `hsl(0,0%,9%)`  | ![background1_mono](assets/colors/background1_mono.png)     |
+| accent0_mono       | `#2d2d2d` | `rgb(45,45,45)`    | `hsl(0,0%,17%)` | ![accent0_mono](assets/colors/accent0_mono.png)             |
+| accent1_mono       | `#4b4b4b` | `rgb(75,75,75)`    | `hsl(0,0%,30%)` | ![accent1_mono](assets/colors/accent1_mono.png)             |
+| white_mono         | `#e0e0e0` | `rgb(224,224,224)` | `hsl(0,0%,87%)` | ![white_mono](assets/colors/white_mono.png)                 |
+| light-gray_mono    | `#b9b9b9` | `rgb(185,185,185)` | `hsl(0,0%,72%)` | ![light-gray_mono](assets/colors/light-gray_mono.png)       |
 
 ### Extra colors
 | Palette            | HEX       | RGB               | HSL                |
